@@ -9,7 +9,7 @@ function preload() {
   homeImage = loadImage("House.png");
   cutterImage = loadImage("woodcutter.jpg");
   saplingImage = loadImage("sapling.jpg");
-  treeImage = loadImage("tree.png");
+  treeImage = loadImage("Tree.png");
   bagImage = loadImage("bag.jpg");
   coalImage = loadImage("coal.jpg");
   plasticImage = loadImage("plasticc.jpg");
